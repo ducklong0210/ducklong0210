@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Xin chào, tôi là <span style="color:#007ACC">Nguyễn Đức Long</span></h1>
-  <p><strong>💻 Lập trình viên Front-end | 🎮 Nhà phát triển Game</strong></p>
+  <p><strong>💻 Lập trình viên </strong></p>
 </div>
 
 <hr style="border: 1px solid #e1e4e8; max-width: 300px;">
