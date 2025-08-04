@@ -39,10 +39,10 @@
 <a href="mailto:nguyenduclongtbb@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.facebook.com/nguyenducklongtbb" target="_blank" style="margin: 0 10px; text-decoration: none;">
+<a href="https://www.facebook.com/nguyenlongbaby02102004" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://twitter.com/your-x-handle" target="_blank" style="margin: 0 10px; text-decoration: none;">
+<a href="https://twitter.com/" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 </div>
