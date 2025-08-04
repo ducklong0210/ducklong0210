@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBk517GfJ6/giphy.gif" alt="Welcome!" width="160" style="border-radius: 50%;" />
+ 
   <h1>👋 Xin chào, tôi là <span style="color:#007ACC">Nguyễn Đức Long</span></h1>
   <p><strong>Game Developer</strong></p>
 </div>
