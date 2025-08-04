@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBk517GfJ6/giphy.gif" alt="Welcome!" width="160" style="border-radius: 50%;" />
   <h1>👋 Xin chào, tôi là <span style="color:#007ACC">Nguyễn Đức Long</span></h1>
-  <p><strong>Giảng viên • Lập trình viên • Game Developer</strong></p>
+  <p><strong>Game Developer</strong></p>
 </div>
 
 <hr style="border: 1px solid #e1e4e8; max-width: 300px;">
@@ -40,4 +40,4 @@
   <a href="https://twitter.com/your-x-handle"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
-<p align="center" style="font-size: small; color: gray;">📍 Trâu Quỳ, Gia Lâm, Hà Nội, Việt Nam</p>
+<p align="center" style="font-size: small; color: gray;">📍 Hà Nội, Việt Nam</p>
