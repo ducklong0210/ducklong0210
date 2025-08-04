@@ -11,7 +11,6 @@
 <li>🎯 Đam mê công nghệ, đặc biệt là phát triển phần mềm và game indie.</li>
 <li>🎓 Sinh viên ngành <strong>Công nghệ Phần mềm</strong> tại <em>Học viện Nông nghiệp Việt Nam</em>.</li>
 <li>🧠 Luôn tìm kiếm cơ hội để nâng cao kỹ năng và phát triển bản thân qua các dự án cá nhân.</li>
-<li>🚀 Hiện tại đang làm <strong>Front-end Developer</strong> cho một website bán máy tính.</li>
 </ul>
 
 <h2>🛠️ Kỹ năng chuyên môn</h2>
