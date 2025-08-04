@@ -42,7 +42,7 @@
 <a href="https://www.facebook.com/nguyenlongbaby02102004" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://twitter.com/" target="_blank" style="margin: 0 10px; text-decoration: none;">
+<a href="https://x.com/NguynLozg210204" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 </div>
