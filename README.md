@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBk517GfJ6/giphy.gif" alt="Chào mừng đến với profile của tôi!" width="200" height="150" style="border-radius: 50%;">
 <h1>👋 Xin chào, tôi là <span style="color:#007ACC">Nguyễn Đức Long</span></h1>
 <p><strong>💻 Lập trình viên </strong></p>
 </div>
