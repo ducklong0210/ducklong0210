@@ -28,11 +28,19 @@
 
 📊 GitHub Stats
 
+> Note: The external GitHub Readme Stats service is currently unavailable (HTTP 503), which causes the images below to fail loading. You can view full stats on my GitHub profile:
+
+[View my GitHub profile](https://github.com/ducklong0210)
+
+<!--
+If the `github-readme-stats` service is back, re-enable these images by removing this comment:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ducklong0210&show_icons=true&theme=tokyonight" height="200" alt="My GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
 </div>
+-->
 
 📫 Connect with Me
 <div align="center" style="margin-top: 10px;">
