@@ -1,19 +1,19 @@
 <div align="center">
-<img src="./assets/img/avt-me.jpg" alt="Welcome to my profile!" style="border-radius: 50%; width: 30%;">
-<h1>👋 Hi, I'm <span style="color:#007ACC">Nguyen Duc Long</span></h1>
-<p><strong>💻 Software Developer</strong></p>
+<img src="./assets/img/avt-me.jpg" alt="Chào mừng đến với profile của tôi!"  style="border-radius: 50%; width: 30%;">
+<h1>👋 Xin chào, tôi là <span style="color:#007ACC">Nguyễn Đức Long</span></h1>
+<p><strong>💻 Lập trình viên </strong></p>
 </div>
 
 <hr style="border: 1px solid #e1e4e8; max-width: 300px;">
 
-📘 About
+<h2>📘 Giới thiệu</h2>
 <ul>
-<li>🎯 Passionate about technology, especially software and indie game development.</li>
-<li>🎓 A student in Software Technology at Vietnam National University of Agriculture.</li>
-<li>🧠 Always seeking opportunities to improve my skills and grow through personal projects.</li>
+<li>🎯 Đam mê công nghệ, đặc biệt là phát triển phần mềm và game indie.</li>
+<li>🎓 Sinh viên ngành <strong>Công nghệ Phần mềm</strong> tại <em>Học viện Nông nghiệp Việt Nam</em>.</li>
+<li>🧠 Luôn tìm kiếm cơ hội để nâng cao kỹ năng và phát triển bản thân qua các dự án cá nhân.</li>
 </ul>
 
-🛠️ Technical Skills
+<h2>🛠️ Kỹ năng chuyên môn</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -26,23 +26,13 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-📊 GitHub Stats
-
-> Lưu ý: Dịch vụ `GitHub Readme Stats` hiện tạm thời không khả dụng (HTTP 503), nên các ảnh thống kê không thể tải được. Bạn có thể xem đầy đủ thống kê trên trang GitHub của tôi:
-
-
-Phần này đã được gỡ vì dịch vụ thống kê ngoài không ổn định. Xem hồ sơ GitHub của tôi tại: [https://github.com/ducklong0210](https://github.com/ducklong0210)
-
-<!--
-Nếu dịch vụ `github-readme-stats` hoạt động trở lại, bỏ comment bên dưới để hiển thị ảnh lại:
-
+<h2>📊 Thống kê GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducklong0210&show_icons=true&theme=tokyonight" height="200" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ducklong0210&show_icons=true&theme=default&count_private=true" width="400" alt="Thống kê GitHub của tôi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=default" width="300" alt="Ngôn ngữ hàng đầu" />
 </div>
 
-
-📫 Connect with Me
+<h2>📫 Kết nối với tôi</h2>
 <div align="center" style="margin-top: 10px;">
 <a href="mailto:nguyenduclongtbb@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -55,4 +45,4 @@ Nếu dịch vụ `github-readme-stats` hoạt động trở lại, bỏ comment
 </a>
 </div>
 
-<p align="center" style="font-size: small; color: gray;">📍 Hanoi, Vietnam</p>
+<p align="center" style="font-size: small; color: gray;">📍 Hà Nội, Việt Nam</p>
