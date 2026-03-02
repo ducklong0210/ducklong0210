@@ -30,7 +30,8 @@
 
 > Lưu ý: Dịch vụ `GitHub Readme Stats` hiện tạm thời không khả dụng (HTTP 503), nên các ảnh thống kê không thể tải được. Bạn có thể xem đầy đủ thống kê trên trang GitHub của tôi:
 
-[Xem hồ sơ GitHub của tôi](https://github.com/ducklong0210)
+
+Phần này đã được gỡ vì dịch vụ thống kê ngoài không ổn định. Xem hồ sơ GitHub của tôi tại: [https://github.com/ducklong0210](https://github.com/ducklong0210)
 
 <!--
 Nếu dịch vụ `github-readme-stats` hoạt động trở lại, bỏ comment bên dưới để hiển thị ảnh lại:
@@ -40,7 +41,6 @@ Nếu dịch vụ `github-readme-stats` hoạt động trở lại, bỏ comment
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
 </div>
 
--->
 
 📫 Connect with Me
 <div align="center" style="margin-top: 10px;">
