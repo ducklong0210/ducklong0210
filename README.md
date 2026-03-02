@@ -29,9 +29,9 @@
 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducklong0210&show_icons=true&theme=default&count_private=true" width="400" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ducklong0210&show_icons=true&theme=tokyonight" height="200" alt="My GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=default" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducklong0210&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
 </div>
 
 📫 Connect with Me
